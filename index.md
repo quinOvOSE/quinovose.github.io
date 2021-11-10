@@ -38,7 +38,13 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### basic of Emacs
 ```markdown
-打开文件 Ctrl X F
+打开文件 Ctrl x f
+保留当前屏幕 Ctrl x 1
+横向切分屏幕 Ctrl x 2
+纵向切分屏幕 Ctrl x 3
+切换屏幕 Ctrl x o
+
+
 
 
 ```
