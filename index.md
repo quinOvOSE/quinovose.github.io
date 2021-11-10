@@ -40,6 +40,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ```markdown
 打开文件 Ctrl x f
 保存文件 Ctrl x s
+查看有什么文件打开在缓冲区  Ctrl x b
 
 保留当前屏幕 Ctrl x 1
 横向切分屏幕 Ctrl x 2
