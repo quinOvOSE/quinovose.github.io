@@ -46,8 +46,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 横向切分屏幕 Ctrl x 2
 纵向切分屏幕 Ctrl x 3
 切换屏幕 Ctrl x o
-
-
-
 ```
+### basic of Org-mode
+开始工作时间 C-c C-x C-i
+停止工作时间 C-c C-x C-o
+
+
 
