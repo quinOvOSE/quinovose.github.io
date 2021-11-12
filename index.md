@@ -72,12 +72,15 @@ ps. 截止时间上， +1d +1w +1m 等分别指日常工作，间隔为每日，
 1. 整体环境参考 https://github.com/purcell/emacs.d
 2. 配置eaf https://github.com/emacs-eaf/emacs-application-framework/blob/master/README.zh-CN.md 
 3. 不能说的这么设置
+```markdown
     (setq eaf-proxy-type "http")
     (setq eaf-proxy-host "127.0.0.1")
     (setq eaf-proxy-port "这是对应端口")
+```
 4. 配置the locate of file with org-agenda
-    (setq org-agenda-files (list "~/org-file/org_file.org"))
-
+```markdown
+  (setq org-agenda-files (list "~/org-file/org_file.org"))
+```
 
     
 
