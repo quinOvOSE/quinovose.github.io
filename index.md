@@ -52,6 +52,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 如果是整行剪切 C k 
 
 
+浏览器使用
+code显示 M-s
+前进 M-f
+后退 M-b
+
+
 
 ```
 ### basic of Org-mode
