@@ -59,4 +59,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 停止工作时间 C-c C-x C-o
 
 
-
+### Emacs 环境配置
+1. 整体环境参考 https://github.com/purcell/emacs.d
+2. 配置eaf https://github.com/emacs-eaf/emacs-application-framework/blob/master/README.zh-CN.md 
+3. 不能说的这么设置
+    (setq eaf-proxy-type "http")
+    (setq eaf-proxy-host "127.0.0.1")
+    (setq eaf-proxy-port "这是对应端口")
