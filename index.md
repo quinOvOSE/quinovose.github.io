@@ -51,13 +51,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 选择剪切 C space 然后选中需要剪切的地方C w
 如果是整行剪切 C k 
 
-
 浏览器使用
 code显示 M-s
 前进 M-f
 后退 M-b
 
-
+打开终端 M-x term 
 
 ```
 ### basic of Org-mode
