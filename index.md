@@ -62,6 +62,9 @@ code显示 M-s
 ### basic of Org-mode
 开始工作时间 C-c C-x C-i
 停止工作时间 C-c C-x C-o
+设置截止时间 C-c C-d
+ps. 截止时间上， +1d +1w +1m 等分别指日常工作，间隔为每日，每周或每月
+查看每日任务 C-c a a
 
 
 ### Emacs 环境配置
