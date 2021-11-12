@@ -75,3 +75,9 @@ ps. 截止时间上， +1d +1w +1m 等分别指日常工作，间隔为每日，
     (setq eaf-proxy-type "http")
     (setq eaf-proxy-host "127.0.0.1")
     (setq eaf-proxy-port "这是对应端口")
+4. 配置the locate of file with org-agenda
+    (setq org-agenda-files (list "~/org-file/org_file.org"))
+
+
+    
+
