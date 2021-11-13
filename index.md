@@ -81,6 +81,8 @@ ps. 截止时间上， +1d +1w +1m 等分别指日常工作，间隔为每日，
 ```markdown
   (setq org-agenda-files (list "~/org-file/org_file.org"))
 ```
-
+5. 配置org-agenda的view中现实前几天的tasks
+```markdown
+(setq org-agenda-span 3)
+```
     
-
