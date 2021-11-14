@@ -70,10 +70,13 @@ ps. 截止时间上， +1d +1w +1m 等分别指日常工作，间隔为每日，
 
 ### Emacs 环境配置
 1. 整体环境参考 
+```markdown
     https://github.com/purcell/emacs.d
+```
 2. 配置eaf 
+```markdown
     https://github.com/emacs-eaf/emacs-application-framework/blob/master/README.zh-CN.md 
-
+```
 
 3. 不能说的这么设置
 ```markdown
