@@ -61,6 +61,8 @@ code显示 M-s
 ```
 ### basic of Org-mode
 ```markdown
+
+小标题向上或向下 M+up or M+down
 开始工作时间 C-c C-x C-i
 停止工作时间 C-c C-x C-o
 设置截止时间 C-c C-d
