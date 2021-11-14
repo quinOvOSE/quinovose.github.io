@@ -63,6 +63,9 @@ code显示 M-s
 ```markdown
 
 小标题向上或向下 M+up or M+down
+
+refile: 将某个task 移动到其他任务中，首先将光标移动到该task上，然后 C+c C+w 选择对应路径 回车
+
 开始工作时间 C-c C-x C-i
 停止工作时间 C-c C-x C-o
 设置截止时间 C-c C-d
