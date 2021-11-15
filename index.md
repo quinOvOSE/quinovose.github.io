@@ -60,6 +60,8 @@ code显示 M-s
 
 
 窗口字体大小变大缩小 C-x C-- or C-x C-=
+
+窗口宽度变大变小 M-up M-down M-left M-right
 ```
 ### basic of Org-mode
 ```markdown
@@ -103,5 +105,17 @@ M+x color-theme-sanityinc-xxxx
 6. 配置org-agenda的view中现实前3天的tasks
 ```markdown
 (setq org-agenda-span 3)
+```
+7. 配置窗口移动快捷键
+```markdown
+(global-set-key (kbd "<M-up>") 'shrink-window)
+(global-set-key (kbd "<M-down>") 'enlarge-window)
+(global-set-key (kbd "<M-left>") 'shrink-window-horizontally)
+(global-set-key (kbd "<M-right>") 'enlarge-window-horizontally)
+```
+
+9. 
+
+
 ```
     
