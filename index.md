@@ -61,7 +61,7 @@ code显示 M-s
 
 窗口字体大小变大缩小 C-x C-- or C-x C-=
 
-窗口宽度变大变小 M-up M-down M-left M-right
+窗口宽度变大变小 M-up M-down M-left M-right  可以查询('shrink-window  'enlarge-window 'shrink-window-horizontally 'enlarge-window-horizontally)
 ```
 ### basic of Org-mode
 ```markdown
