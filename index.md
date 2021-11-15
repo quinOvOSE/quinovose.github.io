@@ -58,6 +58,8 @@ code显示 M-s
 
 打开终端 M-x term 
 
+
+窗口字体大小变大缩小 C-x C-- or C-x C-=
 ```
 ### basic of Org-mode
 ```markdown
