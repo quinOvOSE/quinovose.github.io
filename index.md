@@ -62,6 +62,8 @@ code显示 M-s
 窗口字体大小变大缩小 C-x C-- or C-x C-=
 
 窗口宽度变大变小 M-up M-down M-left M-right  可以查询('shrink-window  'enlarge-window 'shrink-window-horizontally 'enlarge-window-horizontally)
+
+python 中函数索引 M-.和M-,分别跳到函数和返回之前的函数
 ```
 ### basic of Org-mode
 ```markdown
