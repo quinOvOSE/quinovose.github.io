@@ -97,7 +97,11 @@ ps. 截止时间上， +1d +1w +1m 等分别指日常工作，间隔为每日，
 ```
 4. 配置the locate of file with org-agenda
 ```markdown
-  (setq org-agenda-files (list "~/org-file/org_file.org"))
+(add-to-list 'load-path (expand-file-name "~/org-file/"))
+(add-to-list 'auto-mode-alist '("\\.\\(org\\|org_archive\\|txt\\)$" . org-mode))
+(require 'org)
+(setq org-agenda-files (quote ("~/org-file"
+                               )))
 ```
 5. 切换主题颜色(dark and bright)
 ```markdown
@@ -116,17 +120,20 @@ M+x color-theme-sanityinc-xxxx
 (global-set-key (kbd "<M-right>") 'enlarge-window-horizontally)
 ```
 8.配置拼音
+```markdown
 package install posframe
 
 https://github.com/tumashu/pyim
 (require 'posframe)
-
+```
 9.配置英语检索
 分别安装
+```markdown
+
 grep-dired
 sdcv
 company-english-helper
-
+```
 
 ```
     
