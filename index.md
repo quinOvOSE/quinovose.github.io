@@ -121,5 +121,12 @@ package install posframe
 https://github.com/tumashu/pyim
 (require 'posframe)
 
+9.配置英语检索
+分别安装
+grep-dired
+sdcv
+company-english-helper
+
+
 ```
     
