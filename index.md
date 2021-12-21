@@ -115,9 +115,11 @@ M+x color-theme-sanityinc-xxxx
 (global-set-key (kbd "<M-left>") 'shrink-window-horizontally)
 (global-set-key (kbd "<M-right>") 'enlarge-window-horizontally)
 ```
+8.配置拼音
+package install posframe
 
-9. 
-
+https://github.com/tumashu/pyim
+(require 'posframe)
 
 ```
     
